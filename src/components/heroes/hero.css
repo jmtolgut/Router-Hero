@@ -1,0 +1,15 @@
+.animate__animated.animate__bounceInLeft{
+    --animate-duration: 2s;
+}
+
+
+.animate__animated.animate__bounceInRight{
+    --animate-duration: 2.5s;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: all 0.5s linear;
+}
+.card-img-top{
+    border-radius: 0rem 0rem 1rem 1rem;
+}
