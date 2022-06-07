@@ -8,6 +8,7 @@ export const HeroesApp = () => {
           <AppRouter/>
 
         </Cont>
+        
 
     )
 

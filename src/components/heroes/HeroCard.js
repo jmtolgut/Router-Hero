@@ -50,7 +50,6 @@ const ContCard = styled.div`
 overflow: hidden;
 background-color: #002;
 border-radius:1rem;
-border: 1px solid red;
 
 `
 
@@ -58,7 +57,6 @@ const ContOverFlow = styled.div`
 background-color: #002;
 border-radius:1rem;
 overflow: hidden;
-border: 1px solid red;
 width:100%;
 
 `
